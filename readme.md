@@ -1,5 +1,7 @@
 23年毕业，本科软件工程，喜欢编写程序减少重复性劳动
 
+毕设demo:- [基于BSC的NFT交易平台](https://www.yanaemonsnft.xyz/)
+
 热爱web3
 
 关于作者：
